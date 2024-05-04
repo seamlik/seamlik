@@ -9,7 +9,7 @@ I have many names in different languages:
 
 * Chinese name: 殷啟聰 (Qicong Yin)
 * Japanese name: 梓川啓聡 (Hirasato Azusagawa)
-* Nickname: KC (from my Chinese name with Cantonese reading Kai-Chung Yan)
+* Nickname: KC
 
 ## My other internet profiles
 
