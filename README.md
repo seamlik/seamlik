@@ -11,7 +11,7 @@ I have many names in different languages:
 * Japanese name: 梓川啓聡 (Hirasato Azusagawa)
 * Nickname: KC
 
-## My other internet profiles
+## My internet profiles
 
 * [LinkedIn](https://linkedin.com/in/seamlik)
 * [Facebook](https://facebook.com/seamlik)
