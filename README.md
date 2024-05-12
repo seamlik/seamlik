@@ -18,3 +18,17 @@ I have many names in different languages:
 * [Medium](https://medium.com/@seamlik)
 * [Reddit](https://reddit.com/u/seamlik)
 * [Twitter](https://x.com/seamlik)
+
+## My political endorsements
+
+### Countries
+
+* 🇹🇼 臺灣
+* 🇯🇵 日本
+* 🇮🇱 מְדִינַת יִשְׂרָאֵל
+* 🇺🇦 Україна
+
+### Organizations and their member states
+
+* [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)
+* [🇪🇺 European Union](https://europa.eu)
