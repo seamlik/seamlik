@@ -30,5 +30,5 @@ I have many names in different languages:
 
 ### Organizations and their member states
 
-* [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)
+* [🇺🇸🇬🇧🇨🇦🇦🇺🇳🇿 Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)
 * [🇪🇺 European Union](https://europa.eu)
